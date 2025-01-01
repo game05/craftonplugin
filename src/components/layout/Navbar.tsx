@@ -27,13 +27,19 @@ export default function Navbar() {
                 href="/plugins"
                 className="inline-flex items-center px-1 pt-1 text-sm font-medium text-gray-500 hover:text-gray-900"
               >
-                Plugins
+                Réalisations
               </Link>
               <Link
-                href="/creer"
+                href="/services"
                 className="inline-flex items-center px-1 pt-1 text-sm font-medium text-gray-500 hover:text-gray-900"
               >
-                Créer
+                Services
+              </Link>
+              <Link
+                href="/contact"
+                className="inline-flex items-center px-1 pt-1 text-sm font-medium text-gray-500 hover:text-gray-900"
+              >
+                Contact
               </Link>
             </div>
           </div>
