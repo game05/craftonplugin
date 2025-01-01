@@ -14,11 +14,12 @@ export default function Home() {
           <div className="mx-auto max-w-2xl text-center">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
               Créez vos plugins Minecraft
-              <span className="text-indigo-600"> facilement</span>
+              <span className="text-indigo-600"> en ligne</span>
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-              Développez, testez et partagez vos plugins Minecraft sans effort. 
-              Notre plateforme vous offre tous les outils nécessaires pour donner vie à vos idées.
+              Notre éditeur en ligne vous permet de créer vos plugins Minecraft facilement.
+              Un environnement de développement complet avec coloration syntaxique, 
+              auto-complétion et documentation intégrée.
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <Link

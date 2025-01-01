@@ -1,6 +1,6 @@
 # CraftOnPlugin
 
-Plateforme de création et de partage de plugins Minecraft.
+Plateforme de création de plugins Minecraft en ligne. Un éditeur web moderne et puissant pour développer vos plugins Minecraft directement depuis votre navigateur.
 
 ## Technologies utilisées
 
@@ -29,8 +29,11 @@ npm run dev
 
 ## Fonctionnalités
 
-- Création de plugins Minecraft
+- Éditeur de code en ligne pour plugins Minecraft
 - Interface utilisateur moderne et responsive
+- Coloration syntaxique
+- Auto-complétion intelligente
+- Documentation intégrée
 - Système d'authentification
 - Base de données Supabase
 - Déploiement continu avec Vercel
